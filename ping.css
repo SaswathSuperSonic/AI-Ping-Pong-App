@@ -1,0 +1,20 @@
+body
+{
+    font-size: 18px;
+}
+
+.data
+{
+    background-color: white;
+    font-size: 10px
+}
+
+.start
+{
+    background-color: green;
+}
+
+.restart
+{
+    background-color: orange;
+}
